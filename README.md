@@ -8,7 +8,7 @@ The Busca Termos is a tool to facilitate the query terms and their codes in 8 di
 - English (EUA)
 - French
 - German
-- Portuguese (Brzil)
+- Portuguese (Brzail)
 - Slovak
 - Spanish	
 - Turkish
@@ -17,18 +17,17 @@ The Busca Termos is a tool to facilitate the query terms and their codes in 8 di
 
 TO-DO
 
-## Features
+# Features
 
-- Fast term code search
+### Fast term code search
 
 ![BuscaTermosDocumentation](https://raw.githubusercontent.com/Mosquito-Foundation/BuscaTermosDocumentation/master/Gifs/Search.gif)
-
-- Export the terms for .xls
-
+<br>
+### Export the terms to .xls
 
 ![BuscaTermosDocumentation](https://raw.githubusercontent.com/Mosquito-Foundation/BuscaTermosDocumentation/master/Gifs/Export.gif)
-
-- Compare the term with different languages
+<br>
+### Compare the term with different languages
 
 ![BuscaTermosDocumentation](https://raw.githubusercontent.com/Mosquito-Foundation/BuscaTermosDocumentation/master/Gifs/Compare.gif)
 
